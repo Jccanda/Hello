@@ -1,0 +1,11 @@
+ls   lista de archivos
+code .   abre visual studios 
+cd 
+git clone  clona url de repositoyr
+git add  anade updates pero no hace el commit
+git commit andte updates al repository 
+
+
+cd directory-name (stands for “change directory”) — Switches to the directory directory-name.
+pwd (Stands for “print working directory”) — Prints out the current directory.
+ls — Lists the files in the current directory
