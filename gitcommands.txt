@@ -13,3 +13,10 @@ ls — Lists the files in the current directory
 
 
 git commit -am "modifica todos los files"
+
+git log
+
+git reset -- hard
+git reset -- hard origin/master
+
+
